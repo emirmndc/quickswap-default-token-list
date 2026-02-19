@@ -1276,5 +1276,14 @@
     "chainId": 137,
     "logoURI": "https://i.imgur.com/OEZdhkf.jpg",
     "trending": false
-  }
+  },
+{
+  "name": "Maritime",
+  "address": "0x94966B292DD32cD3fb82A83e60a56cEB3322D8FE",
+  "symbol": "MRT",
+  "decimals": 18,
+  "chainId": 137,
+  "logoURI": "https://github.com/emirmndc/quickswap-default-token-list/blob/main/maritime.png?raw=true",
+  "trending": false
+}
 ]
